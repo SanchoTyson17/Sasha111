@@ -8,3 +8,6 @@ print(d)
 
 result = a + c
 print(result)
+
+last_vershion = result + result
+print(last_vershion)
