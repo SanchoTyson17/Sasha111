@@ -6,5 +6,5 @@ print(c)
 d = a + b + c
 print(d)
 
-result = a + a
+result = a + c
 print(result)
